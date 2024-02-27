@@ -6,22 +6,22 @@
           "value": "ftatoolkit" // This value must be provided.
         },
         "resourceLocation": {
-          "value": "eastus" // This value must be provided.
+          "value": "westus" // This value must be provided.
         },
         "storageAccountType":{
           "value": "Standard_LRS"
         },
         "synapseManagedResourceGroup": {
-          "value": "P1-AnalyticsFundamentals-Managed-RG"
+          "value": "EUW_Training_Roberto"
         },
         "sqlAdministratorLogin": {
           "value" : "sqladminuser"
         },
         "sqlAdministratorLoginPassword": {
-          "value": "Xx$$x0xx"
+          "value": "Pa$$w0rd"
         },
         "spObjectId":{
-          "value": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx" //Service Principal ID or your own User Object ID (Please make sure that this user has high enough Role (Owner) to deploy the solution)
+          "value": "5667e90d-30c6-48a5-82b1-462c51c3d5ea" //Service Principal ID or your own User Object ID (Please make sure that this user has high enough Role (Owner) to deploy the solution)
         }
     }
 }
